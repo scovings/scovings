@@ -1,12 +1,13 @@
 <h1 align="center">scovings</h1>
 <div align="center">
   <h5>Self Taught Programmer</h5>
-  <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
+  <h6>Driven by curiosity, I’m always discovering new things and fucking them up every time.</h6>
 </div>
 <div align="center">
   <h3>Languages</h3>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
 </div>
 <div align="center">
   <h3>Tools</h3>
