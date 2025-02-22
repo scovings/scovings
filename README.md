@@ -8,9 +8,9 @@
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/JS?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
 </div>
 <div align="center">
   <h3>Tools</h3>
