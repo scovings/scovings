@@ -11,6 +11,7 @@
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/React?theme=dark"/>
 </div>
 <div align="center">
   <h3>Tools</h3>
