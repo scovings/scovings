@@ -27,7 +27,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=scovings&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scovings&theme=github_dark&show_icons=false&card_width=350" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scovings&theme=tokyonight&show_icons=false&card_width=350" />
   </a>
 </div>
 <div align="center">
