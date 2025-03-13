@@ -17,7 +17,7 @@
   <h3>Tools</h3>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Intellij%20Idea?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/IntelliJ%20IDEA?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
 </div>
