@@ -6,18 +6,13 @@
 <div align="center">
   <h3>Languages</h3>
   <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Java?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
 </div>
 <div align="center">
-  <h3>Tools</h3>
-  <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
+  <h3>Tools</h3>q
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/IntelliJ%20IDEA?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
 </div>
